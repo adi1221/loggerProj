@@ -1,0 +1,49 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "Fixed hard drive on workstation 002",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2019-05-31T16:18:04.245Z"
+    },
+    {
+      "id": 3,
+      "message": "Changed network card in server 107",
+      "tech": "Sam Smith",
+      "attention": false,
+      "date": "2021-07-04T14:49:27.802Z"
+    },
+    {
+      "message": "adi's laptop RAM upgraded",
+      "tech": "adi",
+      "attention": false,
+      "date": "2021-07-04T11:52:28.222Z",
+      "id": 6
+    },
+    {
+      "message": "Fixed abc's computer",
+      "tech": "adi",
+      "attention": false,
+      "date": "2021-07-12T11:24:02.669Z",
+      "id": 7
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    }
+  ]
+}
